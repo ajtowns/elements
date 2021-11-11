@@ -152,6 +152,7 @@ class BlockchainTest(BitcoinTestFramework):
                         'count': 57,
                         'possible': True,
                     },
+                    'signalling': '#'*57,
                 },
                 'active': False
             },
